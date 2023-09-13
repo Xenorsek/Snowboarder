@@ -7,3 +7,6 @@ You can rotate your Barry using arrows left and right. While you on the surface 
 Try to beat that level. Remember to have fun!
 
 It's kinda funny. You can beat game without doing anything.
+
+How to play!
+First download SnowBoarder.rar unzip and run SnowBoarder.exe. 
